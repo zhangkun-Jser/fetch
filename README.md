@@ -1,2 +1,2 @@
 # fetch
-尝试写了一个兼容ajax的fetch请求模块
+基于es6语法,需要babel编译
